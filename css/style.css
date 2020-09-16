@@ -96,8 +96,7 @@ body {
 /* CONTAINER */
 .container {
   margin: 0 auto;
-  max-width: 1000px;
-  padding: 0 1em; }
+  max-width: 1000px; }
 
 /* MEDIA QUERIES */
 /* RESPONSIVE TYPOGRAPHY */
